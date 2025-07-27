@@ -12,10 +12,14 @@ From intuitive mobile apps to AI-powered hydropower models, I'm constantly learn
 
 > "One bug, one breakthrough, one line at a time."
 
+---
+
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sugar-spice-12&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sugar-spice-12&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sugar-spice-12&theme=tokyonight)](https://git.io/streak-stats)
 
 
